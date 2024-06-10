@@ -41,7 +41,7 @@ const TodayDealSection = () => {
                                         <a href="offer.html">
                                             <img
                                                 className="img-fluid banner-img"
-                                                src="assets/images/banner/banner1.jpg"
+                                                src="assets/images/offer/of1.png"
                                                 alt="banner"
                                             />
                                         </a>
@@ -54,7 +54,7 @@ const TodayDealSection = () => {
                                         <a href="offer.html">
                                             <img
                                                 className="img-fluid banner-img"
-                                                src="assets/images/banner/banner2.jpg"
+                                                src="assets/images/offer/of2.png"
                                                 alt="banner"
                                             />
                                         </a>
@@ -68,7 +68,7 @@ const TodayDealSection = () => {
                                         <a href="offer.html">
                                             <img
                                                 className="img-fluid banner-img"
-                                                src="assets/images/banner/banner3.jpg"
+                                                src="assets/images/offer/of3.png"
                                                 alt="banner"
                                             />
                                         </a>
@@ -81,7 +81,7 @@ const TodayDealSection = () => {
                                         <a href="offer.html">
                                             <img
                                                 className="img-fluid banner-img"
-                                                src="assets/images/banner/banner4.jpg"
+                                                src="assets/images/offer/of4.png"
                                                 alt="banner"
                                             />
                                         </a>
@@ -94,7 +94,7 @@ const TodayDealSection = () => {
                                         <a href="offer.html">
                                             <img
                                                 className="img-fluid banner-img"
-                                                src="assets/images/banner/banner5.jpg"
+                                                src="assets/images/offer/of5.png"
                                                 alt="banner"
                                             />
                                         </a>
@@ -107,7 +107,20 @@ const TodayDealSection = () => {
                                         <a href="offer.html">
                                             <img
                                                 className="img-fluid banner-img"
-                                                src="assets/images/banner/banner5.jpg"
+                                                src="assets/images/offer/of6.png"
+                                                alt="banner"
+                                            />
+                                        </a>
+                                    </div>
+                                </div>
+                            </SwiperSlide>
+                            <SwiperSlide>
+                                <div className="swiper-slide">
+                                    <div className="banner-part">
+                                        <a href="offer.html">
+                                            <img
+                                                className="img-fluid banner-img"
+                                                src="assets/images/offer/of7.png"
                                                 alt="banner"
                                             />
                                         </a>

@@ -168,7 +168,7 @@ const Footer = () => {
           </div>
           <div className="bottom-footer-part">
             <div className="d-flex align-items-center justify-content-between flex-wrap gap-2">
-              <h6>@ Copyright 2024 Delivo. All rights Reserved.</h6>
+              <p className='text-light' style={{fontSize:'14px'}} >@ Copyright 2024 Delivo. All rights Reserved.</p>
               <img
                 className="img-fluid cards"
                 src="assets/images/icons/footer-card.png"

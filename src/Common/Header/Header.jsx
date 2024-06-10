@@ -21,7 +21,7 @@ const Header = () => {
               <a href="index.html">
                 <img
                   className="img-fluid logo"
-                  src="/assets/images/logo.png" style={{ height: '100px' }}
+                  src="/assets/images/logo.png" style={{ height: '80px' }}
                   alt="logo"
                 />
               </a>
@@ -320,7 +320,7 @@ const Header = () => {
             <a href="index.html">
               <img
                 className="img-fluid logo"
-                src="assets/images/logo.png" style={{ height: '100px' }}
+                src="assets/images/logo.png" style={{ height: '80px' }}
                 alt="logo"
               />
             </a>

@@ -10187,9 +10187,12 @@ header.header2 .navbar .nav-option .cart-bag {
   width: 100%;
   z-index: 1;
   position: relative;
-  padding: calc(95px + 85 * (100vw - 320px) / 1600) 0 calc(60px + 40 * (100vw - 320px) / 1600) !important;
+  /* padding: calc(95px + 85 * (100vw - 320px) / 1600) 0 calc(60px + 40 * (100vw - 320px) / 1600) !important; */
 }
+.main_home_layer_rgba{
+background-color: rgba(0, 0, 0, 0.8) ;
 
+}
 .home-wrapper .right-vector {
   position: absolute;
   top: -62%;

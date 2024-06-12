@@ -1,11 +1,11 @@
 import React from 'react'
-
+import { Link } from 'react-router-dom'
+import MobileMenu from './MobileMenu'
 const Header = () => {
   return (
     <>
-
       <div className="skeleton-loader">
-        <header>
+        <header className='pt-3'>
           <div className="container">
             <nav className="navbar navbar-expand-lg p-0">
               <button
@@ -18,13 +18,13 @@ const Header = () => {
                   <i className="ri-menu-line" />
                 </span>
               </button>
-              <a href="index.html">
+              <Link tp="/">
                 <img
                   className="img-fluid logo"
                   src="/assets/images/logo.png" style={{ height: '80px' }}
                   alt="logo"
                 />
-              </a>
+              </Link>
               <a
                 target="_blank"
                 href="#!"
@@ -48,7 +48,7 @@ const Header = () => {
                     alt="profile"
                   />
                   <div>
-                    <h6 className="fw-normal">Hi, Mark Jecno</h6>
+                    <h6 className="fw-normal">Hi, Mark</h6>
                     <h5 className="fw-medium">My Account</h5>
                   </div>
                 </div>
@@ -74,11 +74,8 @@ const Header = () => {
                   <ul className="navbar-nav justify-content-center flex-grow-1">
                     <li className="nav-item dropdown">
                       <a
-                        className="nav-link dropdown-toggle"
+                        className="nav-link "
                         href="#!"
-                        role="button"
-                        data-bs-toggle="dropdown"
-                        aria-expanded="false"
                       >
                         Home
                       </a>
@@ -304,7 +301,7 @@ const Header = () => {
         </section>
       </div>
 
-      <header>
+      <header className='pt-3'>
         <div className="container">
           <nav className="navbar navbar-expand-lg p-0">
             <button
@@ -317,13 +314,13 @@ const Header = () => {
                 <i className="ri-menu-line" />
               </span>
             </button>
-            <a href="index.html">
+            <Link to="/">
               <img
                 className="img-fluid logo"
                 src="assets/images/logo.png" style={{ height: '80px' }}
                 alt="logo"
               />
-            </a>
+            </Link>
             <a
               target="_blank"
               href="#!"
@@ -526,100 +523,10 @@ const Header = () => {
               </div>
               <div className="offcanvas-body">
                 <ul className="navbar-nav justify-content-center flex-grow-1">
-                  <li className="nav-item dropdown mega-menu">
-                    <a
-                      className="nav-link dropdown-toggle"
-                      href="#!"
-                      id="accountDropdown"
-                      role="button"
-                      data-bs-toggle="dropdown"
-                      aria-expanded="false"
-                    >
-                      Home
-                    </a>
-                    <div
-                      className="dropdown-menu mt-0 border-0 bsb-zoomIn"
-                      aria-labelledby="accountDropdown"
-                    >
-                      <div className="row row-cols-lg-5 row-cols-1 g-xl-4 g-3">
-                        <div className="col">
-                          <a href="index.html" className="demo-box" target="_blank">
-                            <img
-                              src="assets/images/demo/1.png"
-                              alt="d-1"
-                              className="img-fluid demo-img"
-                            />
-                            <h5 className="dropdown-item">Classic</h5>
-                          </a>
-                        </div>
-                        <div className="col">
-                          <a
-                            href="index2.html"
-                            className="demo-box"
-                            target="_blank"
-                          >
-                            <img
-                              src="assets/images/demo/2.png"
-                              alt="d-2"
-                              className="img-fluid demo-img"
-                            />
-                            <h5 className="dropdown-item">Elegance</h5>
-                          </a>
-                        </div>
-                        <div className="col">
-                          <a
-                            href="index3.html"
-                            className="demo-box"
-                            target="_blank"
-                          >
-                            <img
-                              src="assets/images/demo/3.png"
-                              alt="d-3"
-                              className="img-fluid demo-img"
-                            />
-                            <h5 className="dropdown-item">Compact</h5>
-                          </a>
-                        </div>
-                        <div className="col">
-                          <a
-                            href="index4.html"
-                            className="demo-box"
-                            target="_blank"
-                          >
-                            <img
-                              src="assets/images/demo/4.png"
-                              alt="d-4"
-                              className="img-fluid demo-img"
-                            />
-                            <h5 className="dropdown-item">Minimal</h5>
-                          </a>
-                        </div>
-                        <div className="col">
-                          <a
-                            href="index5.html"
-                            className="demo-box"
-                            target="_blank"
-                          >
-                            <img
-                              src="assets/images/demo/5.png"
-                              alt="d-5"
-                              className="img-fluid demo-img"
-                            />
-                            <h5 className="dropdown-item">Mordern</h5>
-                          </a>
-                        </div>
-                      </div>
-                    </div>
-                  </li>
                   <li className="nav-item">
-                    <a
-                      className="nav-link dropdown-toggle"
-                      href="#!"
-                      id="orderMenu"
-                      role="button"
-                      data-bs-toggle="dropdown"
-                      aria-expanded="false"
-                    >
+                    <a className="nav-link " href="#!"    >  Home</a>   </li>
+                  <li className="nav-item">
+                    <a className="nav-link dropdown-toggle" href="#!" id="orderMenu" role="button" data-bs-toggle="dropdown" aria-expanded="false" >
                       Order
                     </a>
                     <ul
@@ -674,126 +581,40 @@ const Header = () => {
                     </ul>
                   </li>
                   <li className="nav-item">
-                    <a
-                      className="nav-link dropdown-toggle"
-                      href="#!"
-                      id="blogMenu"
-                      role="button"
-                      data-bs-toggle="dropdown"
-                      aria-expanded="false"
-                    >
+                    <a className="nav-link dropdown-toggle" href="#!" id="blogMenu" role="button" data-bs-toggle="dropdown" aria-expanded="false"  >
                       Blog
                     </a>
-                    <ul
-                      className="dropdown-menu mt-0 border-0"
-                      aria-labelledby="blogMenu"
-                    >
-                      <li>
-                        <a
-                          className="dropdown-item"
-                          href="blog-grid-left-sidebar.html"
-                        >
-                          Grid Left Sidebar
-                        </a>
-                      </li>
-                      <li>
-                        <a
-                          className="dropdown-item"
-                          href="blog-grid-right-sidebar.html"
-                        >
-                          Grid Right Sidebar
-                        </a>
-                      </li>
-                      <li>
-                        <a className="dropdown-item" href="blog-list.html">
-                          Blog Listing
-                        </a>
-                      </li>
-                      <li>
-                        <a className="dropdown-item" href="blog-details.html">
-                          Blog Details
-                        </a>
-                      </li>
+                    <ul className="dropdown-menu mt-0 border-0" aria-labelledby="blogMenu"  >
+                      <li>  <a className="dropdown-item" href="blog-grid-left-sidebar.html" >  Grid Left Sidebar </a></li>
+                      <li> <a className="dropdown-item" href="blog-grid-right-sidebar.html"  >    Grid Right Sidebar  </a></li>
+                      <li> <a className="dropdown-item" href="blog-list.html">   Blog Listing </a></li>
+                      <li> <a className="dropdown-item" href="blog-details.html">   Blog Details </a></li>
                     </ul>
                   </li>
                   <li className="nav-item dropdown">
-                    <a
-                      className="nav-link dropdown-toggle"
-                      href="#!"
-                      id="pagesMenu"
-                      role="button"
-                      data-bs-toggle="dropdown"
-                      aria-expanded="false"
-                    >
-                      Pages
-                    </a>
-                    <ul
-                      className="dropdown-menu mt-0 border-0"
-                      aria-labelledby="pagesMenu"
-                    >
-                      <li>
-                        <a className="dropdown-item" href="404.html">
-                          404
-                        </a>
-                      </li>
-                      <li>
-                        <a className="dropdown-item" href="coming-soon.html">
-                          Coming soon
-                        </a>
-                      </li>
-                      <li>
-                        <a className="dropdown-item" href="contact.html">
-                          Contact
-                        </a>
-                      </li>
-                      <li>
-                        <a className="dropdown-item" href="empty-cart.html">
-                          Empty Cart
-                        </a>
-                      </li>
-                      <li>
-                        <a className="dropdown-item" href="faq.html">
-                          FAQs
-                        </a>
-                      </li>
-                      <li>
-                        <a className="dropdown-item" href="otp.html">
-                          OTP
-                        </a>
-                      </li>
-                      <li>
-                        <a className="dropdown-item" href="signin.html">
-                          Sign in
-                        </a>
-                      </li>
-                      <li>
-                        <a className="dropdown-item" href="signup.html">
-                          Sign up
-                        </a>
-                      </li>
-                      <li>
-                        <a className="dropdown-item" href="testimonial.html">
-                          Testimonial
-                        </a>
-                      </li>
-                      <li>
-                        <a className="dropdown-item" href="wishlist.html">
-                          Wishlist
-                        </a>
-                      </li>
+                    <a className="nav-link dropdown-toggle" href="#!" id="pagesMenu" role="button" data-bs-toggle="dropdown" aria-expanded="false"  >
+                      Pages   </a>
+                    <ul className="dropdown-menu mt-0 border-0" aria-labelledby="pagesMenu" >
+                      <li>  <a className="dropdown-item" href="404.html">    404  </a>  </li>
+                      <li> <a className="dropdown-item" href="coming-soon.html">   Coming soon </a> </li>
+                      <li> <a className="dropdown-item" href="contact.html">   Contact </a>  </li>
+                      <li> <a className="dropdown-item" href="empty-cart.html">   Empty Cart </a> </li>
+                      <li> <a className="dropdown-item" href="faq.html">   FAQs </a> </li>
+                      <li> <a className="dropdown-item" href="otp.html">   OTP </a> </li>
+                      <li>  <a className="dropdown-item" href="signin.html">    Sign in  </a> </li>
+                      <li>  <a className="dropdown-item" href="signup.html">    Sign up  </a>  </li>
+                      <li> <a className="dropdown-item" href="testimonial.html">   Testimonial </a></li>
+                      <li> <a className="dropdown-item" href="wishlist.html">   Wishlist </a> </li>
                     </ul>
                   </li>
-                  <li className="nav-item">
-                    <a className="nav-link" href="contact.html">
-                      Contact
-                    </a>
-                  </li>
+                  <li className="nav-item">  <a className="nav-link" href="contact.html">    Contact  </a> </li>
                 </ul>
               </div>
             </div>
           </nav>
         </div>
       </header>
+      <MobileMenu />
     </>
   )
 }

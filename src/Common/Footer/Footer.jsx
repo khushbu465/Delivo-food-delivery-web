@@ -1,4 +1,5 @@
 import React from 'react'
+import LocationModal from '../Modals/LocationModal'
 
 const Footer = () => {
   return (
@@ -168,7 +169,7 @@ const Footer = () => {
           </div>
           <div className="bottom-footer-part">
             <div className="d-flex align-items-center justify-content-between flex-wrap gap-2">
-              <p className='text-light' style={{fontSize:'14px'}} >@ Copyright 2024 Delivo. All rights Reserved.</p>
+              <p className='text-light' style={{ fontSize: '14px' }} >@ Copyright 2024 Delivo. All rights Reserved.</p>
               <img
                 className="img-fluid cards"
                 src="assets/images/icons/footer-card.png"
@@ -178,6 +179,8 @@ const Footer = () => {
           </div>
         </div>
       </footer>
+      <LocationModal />
+      <div className="responsive-space"></div>
 
     </>
   )

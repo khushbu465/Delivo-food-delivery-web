@@ -21,7 +21,7 @@ const Header = () => {
               <Link tp="/">
                 <img
                   className="img-fluid logo"
-                  src="/assets/images/logo.png" style={{ height: '80px' }}
+                  src="/assets/images/logo.png" style={{ height: '80px',marginLeft:'-20px' }}
                   alt="logo"
                 />
               </Link>
@@ -317,7 +317,7 @@ const Header = () => {
             <Link to="/">
               <img
                 className="img-fluid logo"
-                src="assets/images/logo.png" style={{ height: '80px' }}
+                src="assets/images/logo.png" style={{ height: '80px',marginLeft:'-20px' }}
                 alt="logo"
               />
             </Link>

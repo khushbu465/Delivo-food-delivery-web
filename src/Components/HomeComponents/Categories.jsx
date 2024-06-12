@@ -7,29 +7,18 @@ const Categories = () => {
     return (
         <>
             <div className="categories-section">
-                <img
-                    src="assets/images/popcorn.png"
-                    className="img-fluid popcorn-img"
-                    alt=""
-                />
+                <img src="assets/images/popcorn.png" className="img-fluid popcorn-img" alt="" />
                 <div className="container">
                     <div className="position-relative category-top">
                         <div className="swiper categories-no-arrow categories-style">
                             <Swiper
-                                loop={true}
-                                slidesPerView={1}
-                                grabCursor={true}
-                                spaceBetween={10}
+                                loop={true} slidesPerView={1} grabCursor={true} spaceBetween={10}
                                 autoplay={{
                                     delay: 3000,
                                     disableOnInteraction: false,
-                                }}
-                                navigation={{
-                                    nextEl: '.next',
-                                    prevEl: '.back',
-                                }}
-                                modules={[Autoplay, Navigation]}
-                                className="mySwiper p-4"
+                                }} 
+                                // navigation={true}
+                                modules={[Autoplay, Navigation]} className="mySwiper p-4"
                                 breakpoints={{
                                     768: {
                                         slidesPerView: 3,
@@ -44,6 +33,9 @@ const Categories = () => {
                                     },
                                 }}
                             >
+                                <SwiperSlide>
+                                    <CatCard img="thali.png" title="Thali" />
+                                </SwiperSlide>
                                 <SwiperSlide>
                                     <CatCard img="p-1.png" title="Pizza" />
                                 </SwiperSlide>
@@ -64,9 +56,6 @@ const Categories = () => {
                                     <CatCard img="p-8.png" title="Muffin" />
                                 </SwiperSlide>
                                 <SwiperSlide>
-                                    <CatCard img="p-9.png" title="Meat" />
-                                </SwiperSlide>
-                                <SwiperSlide>
                                     <CatCard img="p-10.png" title="Panner" />
                                 </SwiperSlide>
                                 <SwiperSlide>
@@ -80,6 +69,9 @@ const Categories = () => {
                                 </SwiperSlide>
                                 <SwiperSlide>
                                     <CatCard img="p-14.png" title="Sandwich" />
+                                </SwiperSlide>
+                                <SwiperSlide>
+                                    <CatCard img="cake.png" title="Cake" />
                                 </SwiperSlide>
                                 <SwiperSlide>
                                     <CatCard img="p-15.png" title="Noddle" />
@@ -99,6 +91,7 @@ const Categories = () => {
                                 <SwiperSlide>
                                     <CatCard img="p-20.png" title="Biryani" />
                                 </SwiperSlide>
+                              
                             </Swiper>
                         </div>
                     </div>

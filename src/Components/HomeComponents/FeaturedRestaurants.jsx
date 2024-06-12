@@ -1,4 +1,5 @@
 import React from 'react'
+import FeaturedProduct from './Cards/FeaturedProduct'
 
 const FeaturedRestaurants = () => {
     return (
@@ -58,6 +59,7 @@ const FeaturedRestaurants = () => {
                     <div className="tab-content restaurant-content" id="TabContent">
                         <div className="tab-pane fade show active" id="delivery-tab">
                             <div className="row g-lg-4 g-3">
+                            {/* <FeaturedProduct/> */}
                                 <div className="col-xl-3 col-lg-4 col-sm-6">
                                     <div className="vertical-product-box">
                                         <div className="vertical-product-box-img">
@@ -88,7 +90,7 @@ const FeaturedRestaurants = () => {
                                                 </h6>
                                             </div>
                                             <h5 className="product-items">
-                                                Chicken quesadilla, avocado....
+                                                Chicken quesadilla, avocado....    &emsp; <b>500 ₹</b>
                                             </h5>
                                             <div className="location-distance d-flex align-items-center justify-content-between pt-sm-3 pt-2">
                                                 <h5 className="place">New Jsercy</h5>
@@ -142,7 +144,7 @@ const FeaturedRestaurants = () => {
                                                 </h6>
                                             </div>
                                             <h5 className="product-items">
-                                                Chicken quesadilla, avocado....
+                                                Chicken quesadilla, avocado....    &emsp; <b>500 ₹</b>
                                             </h5>
                                             <div className="location-distance d-flex align-items-center justify-content-between pt-sm-3 pt-2">
                                                 <h5 className="place">California</h5>

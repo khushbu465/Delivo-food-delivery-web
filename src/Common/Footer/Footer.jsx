@@ -1,5 +1,6 @@
 import React from 'react'
 import LocationModal from '../Modals/LocationModal'
+import { Link } from 'react-router-dom'
 
 const Footer = () => {
   return (
@@ -56,26 +57,10 @@ const Footer = () => {
                   <div className="col-xl-3 col-lg-3 col-md-3 col-sm-6 col-12">
                     <h5 className="footer-title">Company</h5>
                     <ul className="content">
-                      <li>
-                        <a href="about.html">
-                          <h6>About us</h6>
-                        </a>
-                      </li>
-                      <li>
-                        <a href="contact.html">
-                          <h6>Contact us</h6>
-                        </a>
-                      </li>
-                      <li>
-                        <a href="offer.html">
-                          <h6>Offer</h6>
-                        </a>
-                      </li>
-                      <li>
-                        <a href="faq.html">
-                          <h6>FAQs</h6>
-                        </a>
-                      </li>
+                      <li><Link to="/about"><h6>About Us</h6></Link> </li>
+                      <li><Link to="/contact"><h6>Contact Us</h6></Link> </li>
+                      <li> <Link to="/offer"><h6>Offer</h6> </Link></li>
+                      <li><Link to="/faq">  <h6>FAQs</h6></Link></li>
                     </ul>
                   </div>
                   <div className="col-xl-3 col-lg-3 col-md-3 col-sm-6 col-12">

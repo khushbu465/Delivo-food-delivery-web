@@ -13,9 +13,9 @@ const Home = () => {
             <Slider />
             <Categories />
             <TodayDealSection />
+            <Brand />
             <FeaturedRestaurants />
-            <Brand/>
-            <PopularRestaurants/>
+            <PopularRestaurants />
             {/* <AppSection/> */}
         </>
     )

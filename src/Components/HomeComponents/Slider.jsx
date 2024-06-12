@@ -24,16 +24,17 @@ const Slider = () => {
                     </div>
                   </form>
                   <a className="btn theme-btn mt-0" href="#" role="button">
+
                     Search
                   </a>
                 </div>
               </div>
               <div className="col-lg-5 position-relative">
-                <img
+                {/* <img
                   src="assets/images/home-vector.png"
                   className="img-fluid right-vector"
                   alt="right-vector"
-                />
+                /> */}
               </div>
             </div>
           </div>

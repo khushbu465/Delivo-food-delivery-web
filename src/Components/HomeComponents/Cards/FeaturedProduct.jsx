@@ -14,7 +14,7 @@ const FeaturedProduct = () => {
                         {/* <h6>Exclusive</h6> */}
                     </div>
                     <div className="vertical-product-box-img">
-                        <a href="menu-listing.html">
+                        <a href="#">
                             <img
                                 className="vertical-product-img-top w-100 bg-img"
                                 src="assets/images/product/vp-10.png"
@@ -30,7 +30,7 @@ const FeaturedProduct = () => {
                     </div>
                     <div className="vertical-product-body">
                         <div className="d-flex align-items-center justify-content-between mt-sm-3 mt-2">
-                            <a href="menu-listing.html">
+                            <a href="#">
                                 <h4 className="vertical-product-title">Ribeye Junction</h4>
                             </a>
                             <h6 className="rating-star">

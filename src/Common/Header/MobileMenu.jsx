@@ -19,13 +19,13 @@ const MobileMenu = () => {
                         </a>
                     </li>
                     <li>
-                        <a href="wishlist.html" className="menu-box">
+                        <a href="#" className="menu-box">
                             <i className="ri-heart-3-line" />
                             <span>Wishlist</span>
                         </a>
                     </li>
                     <li>
-                        <a href="checkout.html" className="menu-box">
+                        <a href="#" className="menu-box">
                             <i className="ri-shopping-cart-2-line" />
                             <span>Cart</span>
                         </a>

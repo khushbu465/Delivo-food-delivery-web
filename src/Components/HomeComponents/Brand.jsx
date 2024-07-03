@@ -53,14 +53,14 @@ const Brand = () => {
                                 <SwiperSlide>
                                     <div className="swiper-slide">
                                         <div className="brand-box">
-                                            <a href="menu-listing.html" className="food-brands">
+                                            <a href="#" className="food-brands">
                                                 <img
                                                     className="img-fluid brand-img"
                                                     src="assets/images/icons/brand1.png"
                                                     alt="brand1"
                                                 />
                                             </a>
-                                            <a href="menu-listing.html">
+                                            <a href="#">
                                                 <h4>La Pino’z</h4>
                                             </a>
                                         </div>
@@ -69,14 +69,14 @@ const Brand = () => {
                                 <SwiperSlide>
                                     <div className="swiper-slide">
                                         <div className="brand-box">
-                                            <a href="menu-listing.html" className="food-brands">
+                                            <a href="#" className="food-brands">
                                                 <img
                                                     className="img-fluid brand-img"
                                                     src="assets/images/icons/brand2.png"
                                                     alt="brand2"
                                                 />
                                             </a>
-                                            <a href="menu-listing.html">
+                                            <a href="#">
                                                 <h4>Mc'd</h4>
                                             </a>
                                         </div>
@@ -85,14 +85,14 @@ const Brand = () => {
                                 <SwiperSlide>
                                     <div className="swiper-slide">
                                         <div className="brand-box">
-                                            <a href="menu-listing.html" className="food-brands">
+                                            <a href="#" className="food-brands">
                                                 <img
                                                     className="img-fluid brand-img"
                                                     src="assets/images/icons/brand3.png"
                                                     alt="brand3"
                                                 />
                                             </a>
-                                            <a href="menu-listing.html">
+                                            <a href="#">
                                                 <h4>Starbucks</h4>
                                             </a>
                                         </div>
@@ -101,14 +101,14 @@ const Brand = () => {
                                 <SwiperSlide>
                                     <div className="swiper-slide">
                                         <div className="brand-box">
-                                            <a href="menu-listing.html" className="food-brands">
+                                            <a href="#" className="food-brands">
                                                 <img
                                                     className="img-fluid brand-img"
                                                     src="assets/images/icons/brand4.png"
                                                     alt="brand2"
                                                 />
                                             </a>
-                                            <a href="menu-listing.html">
+                                            <a href="#">
                                                 <h4>Pizza Hut</h4>
                                             </a>
                                         </div>
@@ -117,14 +117,14 @@ const Brand = () => {
                                 <SwiperSlide>
                                     <div className="swiper-slide">
                                         <div className="brand-box">
-                                            <a href="menu-listing.html" className="food-brands">
+                                            <a href="#" className="food-brands">
                                                 <img
                                                     className="img-fluid brand-img"
                                                     src="assets/images/icons/brand5.png"
                                                     alt="brand2"
                                                 />
                                             </a>
-                                            <a href="menu-listing.html">
+                                            <a href="#">
                                                 <h4>Wendy's</h4>
                                             </a>
                                         </div>
@@ -133,14 +133,14 @@ const Brand = () => {
                                 <SwiperSlide>
                                     <div className="swiper-slide">
                                         <div className="brand-box">
-                                            <a href="menu-listing.html" className="food-brands">
+                                            <a href="#" className="food-brands">
                                                 <img
                                                     className="img-fluid brand-img"
                                                     src="assets/images/icons/brand6.png"
                                                     alt="brand6"
                                                 />
                                             </a>
-                                            <a href="menu-listing.html">
+                                            <a href="#">
                                                 <h4>Burger King</h4>
                                             </a>
                                         </div>
@@ -149,14 +149,14 @@ const Brand = () => {
                                 <SwiperSlide>
                                     <div className="swiper-slide">
                                         <div className="brand-box">
-                                            <a href="menu-listing.html" className="food-brands">
+                                            <a href="#" className="food-brands">
                                                 <img
                                                     className="img-fluid brand-img"
                                                     src="assets/images/icons/brand7.png"
                                                     alt="brand7"
                                                 />
                                             </a>
-                                            <a href="menu-listing.html">
+                                            <a href="#">
                                                 <h4>Subway</h4>
                                             </a>
                                         </div>
@@ -165,14 +165,14 @@ const Brand = () => {
                                 <SwiperSlide>
                                     <div className="swiper-slide">
                                         <div className="brand-box">
-                                            <a href="menu-listing.html" className="food-brands">
+                                            <a href="#" className="food-brands">
                                                 <img
                                                     className="img-fluid brand-img"
                                                     src="assets/images/icons/brand8.png"
                                                     alt="brand8"
                                                 />
                                             </a>
-                                            <a href="menu-listing.html">
+                                            <a href="#">
                                                 <h4>Domino's</h4>
                                             </a>
                                         </div>
@@ -181,14 +181,14 @@ const Brand = () => {
                                 <SwiperSlide>
                                     <div className="swiper-slide">
                                         <div className="brand-box">
-                                            <a href="menu-listing.html" className="food-brands">
+                                            <a href="#" className="food-brands">
                                                 <img
                                                     className="img-fluid brand-img"
                                                     src="assets/images/icons/brand9.png"
                                                     alt="brand9"
                                                 />
                                             </a>
-                                            <a href="menu-listing.html">
+                                            <a href="#">
                                                 <h4>Taco Bell</h4>
                                             </a>
                                         </div>
@@ -197,14 +197,14 @@ const Brand = () => {
                                 <SwiperSlide>
                                     <div className="swiper-slide">
                                         <div className="brand-box">
-                                            <a href="menu-listing.html" className="food-brands">
+                                            <a href="#" className="food-brands">
                                                 <img
                                                     className="img-fluid brand-img"
                                                     src="assets/images/icons/brand10.png"
                                                     alt="brand5"
                                                 />
                                             </a>
-                                            <a href="menu-listing.html">
+                                            <a href="#">
                                                 <h4>Chipotle</h4>
                                             </a>
                                         </div>
@@ -213,14 +213,14 @@ const Brand = () => {
                                 <SwiperSlide>
                                     <div className="swiper-slide">
                                         <div className="brand-box">
-                                            <a href="menu-listing.html" className="food-brands">
+                                            <a href="#" className="food-brands">
                                                 <img
                                                     className="img-fluid brand-img"
                                                     src="assets/images/icons/brand11.png"
                                                     alt="brand11"
                                                 />
                                             </a>
-                                            <a href="menu-listing.html">
+                                            <a href="#">
                                                 <h4>KFC</h4>
                                             </a>
                                         </div>

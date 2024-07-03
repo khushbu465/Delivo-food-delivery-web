@@ -67,22 +67,22 @@ const Footer = () => {
                     <h5 className="footer-title">Account</h5>
                     <ul className="content">
                       <li>
-                        <a href="my-order.html">
+                        <a href="#">
                           <h6>My orders</h6>
                         </a>
                       </li>
                       <li>
-                        <a href="wishlist.html">
+                        <a href="#">
                           <h6>Wishlist</h6>
                         </a>
                       </li>
                       <li>
-                        <a href="checkout.html">
+                        <a href="#">
                           <h6>Shopping Cart</h6>
                         </a>
                       </li>
                       <li>
-                        <a href="saved-address.html">
+                        <a href="#">
                           <h6>Saved Address</h6>
                         </a>
                       </li>
@@ -92,27 +92,27 @@ const Footer = () => {
                     <h5 className="footer-title">Useful links</h5>
                     <ul className="content">
                       <li>
-                        <a href="blog-grid-left-sidebar.html">
+                        <a href="#">
                           <h6>Blogs</h6>
                         </a>
                       </li>
                       <li>
-                        <a href="signin.html">
+                        <a href="#">
                           <h6>Login</h6>
                         </a>
                       </li>
                       <li>
-                        <a href="signup.html">
+                        <a href="#">
                           <h6>Register</h6>
                         </a>
                       </li>
                       <li>
-                        <a href="profile.html">
+                        <a href="#">
                           <h6>Profile</h6>
                         </a>
                       </li>
                       <li>
-                        <a href="setting.html">
+                        <a href="#">
                           <h6>Settings</h6>
                         </a>
                       </li>
@@ -122,27 +122,27 @@ const Footer = () => {
                     <h5 className="footer-title">Top Brands</h5>
                     <ul className="content">
                       <li>
-                        <a href="menu-listing.html">
+                        <a href="#">
                           <h6>PizzaBoy</h6>
                         </a>
                       </li>
                       <li>
-                        <a href="menu-listing.html">
+                        <a href="#">
                           <h6>Saladish</h6>
                         </a>
                       </li>
                       <li>
-                        <a href="menu-listing.html">
+                        <a href="#">
                           <h6>IcePops</h6>
                         </a>
                       </li>
                       <li>
-                        <a href="menu-listing.html">
+                        <a href="#">
                           <h6>Maxican Hoy</h6>
                         </a>
                       </li>
                       <li>
-                        <a href="menu-listing.html">
+                        <a href="#">
                           <h6>La Foodie</h6>
                         </a>
                       </li>

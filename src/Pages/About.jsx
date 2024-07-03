@@ -86,8 +86,6 @@ const About = () => {
                     </div>
                 </div>
             </section>
-
-
             <section className="service-box-section section-b-space">
                 <div className="container">
                     <div className="row g-3">

@@ -21,7 +21,7 @@ const PopularRestaurants = () => {
                         <div className="col-xxl-3 col-xl-3 col-lg-4 col-md-6 col-sm-6 col-12">
                             <div className="vertical-product-box">
                                 <div className="vertical-product-box-img">
-                                    <a href="menu-listing.html">
+                                    <a href="#">
                                         <img
                                             className="product-img-top w-100 bg-img"
                                             src="assets/images/product/vp-1.png"
@@ -37,7 +37,7 @@ const PopularRestaurants = () => {
                                 </div>
                                 <div className="vertical-product-body">
                                     <div className="d-flex align-items-center justify-content-between mt-sm-3 mt-2">
-                                        <a href="menu-listing.html">
+                                        <a href="#">
                                             <h4 className="vertical-product-title">Poultry Palace</h4>
                                         </a>
                                         <h6 className="rating-star">
@@ -73,7 +73,7 @@ const PopularRestaurants = () => {
                                     <h6>Newest</h6>
                                 </div>
                                 <div className="vertical-product-box-img">
-                                    <a href="menu-listing.html">
+                                    <a href="#">
                                         <img
                                             className="vertical-product-img-top w-100 bg-img"
                                             src="assets/images/product/vp-2.png"
@@ -89,7 +89,7 @@ const PopularRestaurants = () => {
                                 </div>
                                 <div className="vertical-product-body">
                                     <div className="d-flex align-items-center justify-content-between mt-sm-3 mt-2">
-                                        <a href="menu-listing.html">
+                                        <a href="#">
                                             <h4 className="vertical-product-title">Ribeye Junction</h4>
                                         </a>
                                         <h6 className="rating-star">
@@ -117,7 +117,7 @@ const PopularRestaurants = () => {
                         <div className="col-xxl-3 col-xl-3 col-lg-4 col-md-6 col-sm-6 col-12">
                             <div className="vertical-product-box">
                                 <div className="vertical-product-box-img">
-                                    <a href="menu-listing.html">
+                                    <a href="#">
                                         <img
                                             className="product-img-top w-100 bg-img"
                                             src="assets/images/product/vp-3.png"
@@ -127,7 +127,7 @@ const PopularRestaurants = () => {
                                 </div>
                                 <div className="vertical-product-body">
                                     <div className="d-flex align-items-center justify-content-between mt-sm-3 mt-2">
-                                        <a href="menu-listing.html">
+                                        <a href="#">
                                             <h4 className="vertical-product-title">
                                                 The Grill Master's Cafe
                                             </h4>
@@ -157,7 +157,7 @@ const PopularRestaurants = () => {
                         <div className="col-xxl-3 col-xl-3 col-lg-4 col-md-6 col-sm-6 col-12">
                             <div className="vertical-product-box">
                                 <div className="vertical-product-box-img">
-                                    <a href="menu-listing.html">
+                                    <a href="#">
                                         <img
                                             className="product-img-top w-100 bg-img"
                                             src="assets/images/product/vp-4.png"
@@ -167,7 +167,7 @@ const PopularRestaurants = () => {
                                 </div>
                                 <div className="vertical-product-body">
                                     <div className="d-flex align-items-center justify-content-between mt-sm-3 mt-2">
-                                        <a href="menu-listing.html">
+                                        <a href="#">
                                             <h4 className="vertical-product-title">Cozy Cuppa Cafe</h4>
                                         </a>
                                         <h6 className="rating-star">
@@ -195,7 +195,7 @@ const PopularRestaurants = () => {
                         <div className="col-xxl-3 col-xl-3 col-lg-4 col-md-6 col-sm-6 col-12">
                             <div className="vertical-product-box">
                                 <div className="vertical-product-box-img">
-                                    <a href="menu-listing.html">
+                                    <a href="#">
                                         <img
                                             className="product-img-top w-100 bg-img"
                                             src="assets/images/product/vp-5.png"
@@ -205,7 +205,7 @@ const PopularRestaurants = () => {
                                 </div>
                                 <div className="vertical-product-body">
                                     <div className="d-flex align-items-center justify-content-between mt-sm-3 mt-2">
-                                        <a href="menu-listing.html">
+                                        <a href="#">
                                             <h4 className="vertical-product-title">Mocha Magic Cafe</h4>
                                         </a>
                                         <h6 className="rating-star">
@@ -233,7 +233,7 @@ const PopularRestaurants = () => {
                         <div className="col-xxl-3 col-xl-3 col-lg-4 col-md-6 col-sm-6 col-12">
                             <div className="vertical-product-box">
                                 <div className="vertical-product-box-img">
-                                    <a href="menu-listing.html">
+                                    <a href="#">
                                         <img
                                             className="product-img-top w-100 bg-img"
                                             src="assets/images/product/vp-6.png"
@@ -249,7 +249,7 @@ const PopularRestaurants = () => {
                                 </div>
                                 <div className="vertical-product-body">
                                     <div className="d-flex align-items-center justify-content-between mt-sm-3 mt-2">
-                                        <a href="menu-listing.html">
+                                        <a href="#">
                                             <h4 className="vertical-product-title">Latte Lounge</h4>
                                         </a>
                                         <h6 className="rating-star">
@@ -287,7 +287,7 @@ const PopularRestaurants = () => {
                                     <h6>Best seller</h6>
                                 </div>
                                 <div className="vertical-product-box-img">
-                                    <a href="menu-listing.html">
+                                    <a href="#">
                                         <img
                                             className="vertical-product-img-top w-100 bg-img"
                                             src="assets/images/product/vp-7.png"
@@ -303,7 +303,7 @@ const PopularRestaurants = () => {
                                 </div>
                                 <div className="vertical-product-body">
                                     <div className="d-flex align-items-center justify-content-between mt-sm-3 mt-2">
-                                        <a href="menu-listing.html">
+                                        <a href="#">
                                             <h4 className="vertical-product-title">The Burger Barn</h4>
                                         </a>
                                         <h6 className="rating-star">
@@ -341,7 +341,7 @@ const PopularRestaurants = () => {
                                     <h6>Exclusive</h6>
                                 </div>
                                 <div className="vertical-product-box-img">
-                                    <a href="menu-listing.html">
+                                    <a href="#">
                                         <img
                                             className="vertical-product-img-top w-100 bg-img"
                                             src="assets/images/product/vp-8.png"
@@ -357,7 +357,7 @@ const PopularRestaurants = () => {
                                 </div>
                                 <div className="vertical-product-body">
                                     <div className="d-flex align-items-center justify-content-between mt-sm-3 mt-2">
-                                        <a href="menu-listing.html">
+                                        <a href="#">
                                             <h4 className="vertical-product-title">Wing Master</h4>
                                         </a>
                                         <h6 className="rating-star">

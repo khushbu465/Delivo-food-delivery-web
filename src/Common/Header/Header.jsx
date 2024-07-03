@@ -114,7 +114,7 @@ const Header = () => {
                       </a>
                     </li>
                     <li className="nav-item">
-                      <a className="nav-link" href="contact.html">
+                      <a className="nav-link" href="#">
                         Contact
                       </a>
                     </li>
@@ -142,115 +142,115 @@ const Header = () => {
               <div className="swiper categories-no-arrow categories-style">
                 <div className="swiper-wrapper">
                   <div className="swiper-slide">
-                    <a href="restaurant-listing.html" className="food-categories">
+                    <a href="#" className="food-categories">
                       <span className="categories-img" />
                       <h4 className="placeholder col-10" />
                     </a>
                   </div>
                   <div className="swiper-slide">
-                    <a href="restaurant-listing.html" className="food-categories">
+                    <a href="#" className="food-categories">
                       <span className="categories-img" />
                       <h4 className="placeholder col-10" />
                     </a>
                   </div>
                   <div className="swiper-slide">
-                    <a href="restaurant-listing.html" className="food-categories">
+                    <a href="#" className="food-categories">
                       <span className="categories-img" />
                       <h4 className="placeholder col-10" />
                     </a>
                   </div>
                   <div className="swiper-slide">
-                    <a href="restaurant-listing.html" className="food-categories">
+                    <a href="#" className="food-categories">
                       <span className="categories-img" />
                       <h4 className="placeholder col-10" />
                     </a>
                   </div>
                   <div className="swiper-slide">
-                    <a href="restaurant-listing.html" className="food-categories">
+                    <a href="#" className="food-categories">
                       <span className="categories-img" />
                       <h4 className="placeholder col-10" />
                     </a>
                   </div>
                   <div className="swiper-slide">
-                    <a href="restaurant-listing.html" className="food-categories">
+                    <a href="#" className="food-categories">
                       <span className="categories-img" />
                       <h4 className="placeholder col-10" />
                     </a>
                   </div>
                   <div className="swiper-slide">
-                    <a href="restaurant-listing.html" className="food-categories">
+                    <a href="#" className="food-categories">
                       <span className="categories-img" />
                       <h4 className="placeholder col-10" />
                     </a>
                   </div>
                   <div className="swiper-slide">
-                    <a href="restaurant-listing.html" className="food-categories">
+                    <a href="#" className="food-categories">
                       <span className="categories-img" />
                       <h4 className="placeholder col-10" />
                     </a>
                   </div>
                   <div className="swiper-slide">
-                    <a href="restaurant-listing.html" className="food-categories">
+                    <a href="#" className="food-categories">
                       <span className="categories-img" />
                       <h4 className="placeholder col-10" />
                     </a>
                   </div>
                   <div className="swiper-slide">
-                    <a href="restaurant-listing.html" className="food-categories">
+                    <a href="#" className="food-categories">
                       <span className="categories-img" />
                       <h4 className="placeholder col-10" />
                     </a>
                   </div>
                   <div className="swiper-slide">
-                    <a href="restaurant-listing.html" className="food-categories">
+                    <a href="#" className="food-categories">
                       <span className="categories-img" />
                       <h4 className="placeholder col-10" />
                     </a>
                   </div>
                   <div className="swiper-slide">
-                    <a href="restaurant-listing.html" className="food-categories">
+                    <a href="#" className="food-categories">
                       <span className="categories-img" />
                       <h4 className="placeholder col-10" />
                     </a>
                   </div>
                   <div className="swiper-slide">
-                    <a href="restaurant-listing.html" className="food-categories">
+                    <a href="#" className="food-categories">
                       <span className="categories-img" />
                       <h4 className="placeholder col-10" />
                     </a>
                   </div>
                   <div className="swiper-slide">
-                    <a href="restaurant-listing.html" className="food-categories">
+                    <a href="#" className="food-categories">
                       <span className="categories-img" />
                       <h4 className="placeholder col-10" />
                     </a>
                   </div>
                   <div className="swiper-slide">
-                    <a href="restaurant-listing.html" className="food-categories">
+                    <a href="#" className="food-categories">
                       <span className="categories-img" />
                       <h4 className="placeholder col-10" />
                     </a>
                   </div>
                   <div className="swiper-slide">
-                    <a href="restaurant-listing.html" className="food-categories">
+                    <a href="#" className="food-categories">
                       <span className="categories-img" />
                       <h4 className="placeholder col-10" />
                     </a>
                   </div>
                   <div className="swiper-slide">
-                    <a href="restaurant-listing.html" className="food-categories">
+                    <a href="#" className="food-categories">
                       <span className="categories-img" />
                       <h4 className="placeholder col-10" />
                     </a>
                   </div>
                   <div className="swiper-slide">
-                    <a href="restaurant-listing.html" className="food-categories">
+                    <a href="#" className="food-categories">
                       <span className="categories-img" />
                       <h4 className="placeholder col-10" />
                     </a>
                   </div>
                   <div className="swiper-slide">
-                    <a href="restaurant-listing.html" className="food-categories">
+                    <a href="#" className="food-categories">
                       <span className="categories-img" />
                       <h4 className="placeholder col-10" />
                     </a>
@@ -271,27 +271,27 @@ const Header = () => {
                 <div className="swiper-wrapper">
                   <div className="swiper-slide placeholder-glow">
                     <div className="banner-part">
-                      <a href="offer.html" className="placeholder" />
+                      <a href="#" className="placeholder" />
                     </div>
                   </div>
                   <div className="swiper-slide">
                     <div className="banner-part">
-                      <a href="offer.html" className="placeholder" />
+                      <a href="#" className="placeholder" />
                     </div>
                   </div>
                   <div className="swiper-slide">
                     <div className="banner-part">
-                      <a href="offer.html" className="placeholder" />
+                      <a href="#" className="placeholder" />
                     </div>
                   </div>
                   <div className="swiper-slide">
                     <div className="banner-part">
-                      <a href="offer.html" className="placeholder" />
+                      <a href="#" className="placeholder" />
                     </div>
                   </div>
                   <div className="swiper-slide">
                     <div className="banner-part">
-                      <a href="offer.html" className="placeholder" />
+                      <a href="#" className="placeholder" />
                     </div>
                   </div>
                 </div>
@@ -455,7 +455,7 @@ const Header = () => {
                   </div>
                   <div className="button-group">
                     <a
-                      href="checkout.html"
+                      href="#"
                       className="btn btn-sm theme-btn w-100 d-block rounded-2"
                     >
                       View Cart
@@ -476,33 +476,33 @@ const Header = () => {
                 <div className="onhover-box onhover-sm">
                   <ul className="menu-list">
                     <li>
-                      <a className="dropdown-item" href="profile.html">
+                      <a className="dropdown-item" href="#">
                         Profile
                       </a>
                     </li>
                     <li>
-                      <a className="dropdown-item" href="my-order.html">
+                      <a className="dropdown-item" href="#">
                         My orders
                       </a>
                     </li>
                     <li>
-                      <a className="dropdown-item" href="saved-address.html">
+                      <a className="dropdown-item" href="#">
                         Saved Address
                       </a>
                     </li>
                     <li>
-                      <a className="dropdown-item" href="saved-card.html">
+                      <a className="dropdown-item" href="#">
                         Saved cards
                       </a>
                     </li>
                     <li>
-                      <a className="dropdown-item" href="setting.html">
+                      <a className="dropdown-item" href="#">
                         Settings
                       </a>
                     </li>
                   </ul>
                   <div className="bottom-btn">
-                    <a href="signin.html" className="theme-color fw-medium d-flex">
+                    <a href="#" className="theme-color fw-medium d-flex">
                       <i className="ri-login-box-line me-2" />
                       Logout
                     </a>
@@ -534,47 +534,47 @@ const Header = () => {
                       aria-labelledby="orderMenu"
                     >
                       <li>
-                        <a className="dropdown-item" href="menu-listing.html">
+                        <a className="dropdown-item" href="#">
                           Menu listing
                         </a>
                       </li>
                       <li>
-                        <a className="dropdown-item" href="menu-grid.html">
+                        <a className="dropdown-item" href="#">
                           Menu grid
                         </a>
                       </li>
                       <li>
-                        <a className="dropdown-item" href="address.html">
+                        <a className="dropdown-item" href="#">
                           Address
                         </a>
                       </li>
                       <li>
-                        <a className="dropdown-item" href="checkout.html">
+                        <a className="dropdown-item" href="#">
                           Checkout
                         </a>
                       </li>
                       <li>
-                        <a className="dropdown-item" href="confirm-order.html">
+                        <a className="dropdown-item" href="#">
                           Confirm order
                         </a>
                       </li>
                       <li>
-                        <a className="dropdown-item" href="offer.html">
+                        <a className="dropdown-item" href="#">
                           Offer
                         </a>
                       </li>
                       <li>
-                        <a className="dropdown-item" href="order-tracking.html">
+                        <a className="dropdown-item" href="#">
                           Order tracking
                         </a>
                       </li>
                       <li>
-                        <a className="dropdown-item" href="payment.html">
+                        <a className="dropdown-item" href="#">
                           Payment
                         </a>
                       </li>
                       <li>
-                        <a className="dropdown-item" href="restaurant-listing.html">
+                        <a className="dropdown-item" href="#">
                           Restaurant listing
                         </a>
                       </li>
@@ -585,29 +585,29 @@ const Header = () => {
                       Blog
                     </a>
                     <ul className="dropdown-menu mt-0 border-0" aria-labelledby="blogMenu"  >
-                      <li>  <a className="dropdown-item" href="blog-grid-left-sidebar.html" >  Grid Left Sidebar </a></li>
-                      <li> <a className="dropdown-item" href="blog-grid-right-sidebar.html"  >    Grid Right Sidebar  </a></li>
-                      <li> <a className="dropdown-item" href="blog-list.html">   Blog Listing </a></li>
-                      <li> <a className="dropdown-item" href="blog-details.html">   Blog Details </a></li>
+                      <li>  <a className="dropdown-item" href="#" >  Grid Left Sidebar </a></li>
+                      <li> <a className="dropdown-item" href="#"  >    Grid Right Sidebar  </a></li>
+                      <li> <a className="dropdown-item" href="#">   Blog Listing </a></li>
+                      <li> <a className="dropdown-item" href="#">   Blog Details </a></li>
                     </ul>
                   </li>
                   <li className="nav-item dropdown">
                     <a className="nav-link dropdown-toggle" href="#!" id="pagesMenu" role="button" data-bs-toggle="dropdown" aria-expanded="false"  >
                       Pages   </a>
                     <ul className="dropdown-menu mt-0 border-0" aria-labelledby="pagesMenu" >
-                      <li>  <a className="dropdown-item" href="404.html">    404  </a>  </li>
-                      <li> <a className="dropdown-item" href="coming-soon.html">   Coming soon </a> </li>
-                      <li> <a className="dropdown-item" href="contact.html">   Contact </a>  </li>
-                      <li> <a className="dropdown-item" href="empty-cart.html">   Empty Cart </a> </li>
-                      <li> <a className="dropdown-item" href="faq.html">   FAQs </a> </li>
-                      <li> <a className="dropdown-item" href="otp.html">   OTP </a> </li>
-                      <li>  <a className="dropdown-item" href="signin.html">    Sign in  </a> </li>
-                      <li>  <a className="dropdown-item" href="signup.html">    Sign up  </a>  </li>
-                      <li> <a className="dropdown-item" href="testimonial.html">   Testimonial </a></li>
-                      <li> <a className="dropdown-item" href="wishlist.html">   Wishlist </a> </li>
+                      <li>  <a className="dropdown-item" href="#">    404  </a>  </li>
+                      <li> <a className="dropdown-item" href="#">   Coming soon </a> </li>
+                      <li> <a className="dropdown-item" href="#">   Contact </a>  </li>
+                      <li> <a className="dropdown-item" href="#">   Empty Cart </a> </li>
+                      <li> <a className="dropdown-item" href="#">   FAQs </a> </li>
+                      <li> <a className="dropdown-item" href="#">   OTP </a> </li>
+                      <li>  <a className="dropdown-item" href="#">    Sign in  </a> </li>
+                      <li>  <a className="dropdown-item" href="#">    Sign up  </a>  </li>
+                      <li> <a className="dropdown-item" href="#">   Testimonial </a></li>
+                      <li> <a className="dropdown-item" href="#">   Wishlist </a> </li>
                     </ul>
                   </li>
-                  <li className="nav-item">  <a className="nav-link" href="contact.html">    Contact  </a> </li>
+                  <li className="nav-item">  <a className="nav-link" href="#">    Contact  </a> </li>
                 </ul>
               </div>
             </div>

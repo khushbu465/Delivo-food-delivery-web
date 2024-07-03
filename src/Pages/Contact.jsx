@@ -128,10 +128,10 @@ const Contact = () => {
                   </div>
                 </form>
                 <div className="buttons d-flex align-items-center justify-content-end gap-3">
-                  <a href="contact.html.html" className="btn gray-btn mt-0">
+                  <a href="#" className="btn gray-btn mt-0">
                     CANCEL
                   </a>
-                  <a href="index.html" className="btn theme-btn mt-0">
+                  <a href="#" className="btn theme-btn mt-0">
                     SUBMIT
                   </a>
                 </div>

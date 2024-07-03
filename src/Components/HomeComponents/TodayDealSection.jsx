@@ -38,7 +38,7 @@ const TodayDealSection = () => {
                             <SwiperSlide>
                                 <div className="swiper-slide">
                                     <div className="banner-part">
-                                        <a href="offer.html">
+                                        <a href="#">
                                             <img
                                                 className="img-fluid banner-img"
                                                 src="assets/images/offer/of1.png"
@@ -51,7 +51,7 @@ const TodayDealSection = () => {
                             <SwiperSlide>
                                 <div className="swiper-slide">
                                     <div className="banner-part">
-                                        <a href="offer.html">
+                                        <a href="#">
                                             <img
                                                 className="img-fluid banner-img"
                                                 src="assets/images/offer/of2.png"
@@ -65,7 +65,7 @@ const TodayDealSection = () => {
                             <SwiperSlide>
                                 <div className="swiper-slide">
                                     <div className="banner-part">
-                                        <a href="offer.html">
+                                        <a href="#">
                                             <img
                                                 className="img-fluid banner-img"
                                                 src="assets/images/offer/of3.png"
@@ -78,7 +78,7 @@ const TodayDealSection = () => {
                             <SwiperSlide>
                                 <div className="swiper-slide">
                                     <div className="banner-part">
-                                        <a href="offer.html">
+                                        <a href="#">
                                             <img
                                                 className="img-fluid banner-img"
                                                 src="assets/images/offer/of4.png"
@@ -91,7 +91,7 @@ const TodayDealSection = () => {
                             <SwiperSlide>
                                 <div className="swiper-slide">
                                     <div className="banner-part">
-                                        <a href="offer.html">
+                                        <a href="#">
                                             <img
                                                 className="img-fluid banner-img"
                                                 src="assets/images/offer/of5.png"
@@ -104,7 +104,7 @@ const TodayDealSection = () => {
                             <SwiperSlide>
                                 <div className="swiper-slide">
                                     <div className="banner-part">
-                                        <a href="offer.html">
+                                        <a href="#">
                                             <img
                                                 className="img-fluid banner-img"
                                                 src="assets/images/offer/of6.png"
@@ -117,7 +117,7 @@ const TodayDealSection = () => {
                             <SwiperSlide>
                                 <div className="swiper-slide">
                                     <div className="banner-part">
-                                        <a href="offer.html">
+                                        <a href="#">
                                             <img
                                                 className="img-fluid banner-img"
                                                 src="assets/images/offer/of7.png"
